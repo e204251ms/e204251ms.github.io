@@ -1,0 +1,28 @@
+h1{
+    color:#ffffff";
+    font-size:60px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+}
+
+p{
+    color:crimson;
+    
+}
+
+h2{
+    color:cornflowerblue;
+    text-align: center;
+    background-color:floralwhite;
+}
+
+h3{
+    color:darkviolet;
+}
+
+body{
+    background-image: url(../images/luz_members.png);;
+    background-attachment: fixed;
+}
