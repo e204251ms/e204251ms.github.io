@@ -1,0 +1,35 @@
+.whitecolor{
+    color : white;
+    background-color: purple;
+}
+.bluecolor{
+    color : blue;
+}
+.purplecolor{
+    color : purple;
+    background-color: white;
+}
+h1#mori{
+    font-family:impact;
+    font-size:60px;
+}
+
+h1{
+    
+}
+
+h2 {
+color:red ;
+    text-align: center;
+}
+p:hover{
+    background-color: powderblue;
+    
+}
+h2:hover{
+    background-color: white;
+}
+body{
+    background-image: url(../images/luz_members.png);;
+    background-attachment: fixed;
+}
