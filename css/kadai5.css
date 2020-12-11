@@ -1,0 +1,92 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:aquamarine;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+}
+
+div.menu{
+    font-size: 0;
+    width:1000px;
+    background-color: blue
+}
+
+div.menuitem1{
+    display:inline-block;
+    vertical-align: top;
+    width:250px;
+    height:320px;
+    text-align: center;
+    font-family: "Impact";
+    margin-right: 50px;
+    background-color: chartreuse
+    
+}
+div.menuitem2{
+    display:inline-block;
+    width:700px;
+    height:320px;
+    background-color: beige;
+    text-align: right;
+    font-family: "Impact";
+}
+div.menuitem1-1{
+    display:inline-block;
+    width:250px;
+    height:100px;
+    background-color: beige;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Impact";
+    /border: 5px dotted blue;
+    margin-bottom: 10px;
+}
+div.menuitem1-2{
+    display:inline-block;
+    width:250px;
+    height:100px;
+    background-color: beige;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Impact";
+    /border: 5px dotted blue;
+    margin-bottom: 10px;
+}
+div.menuitem1-3{
+    display:inline-block;
+    width:250px;
+    height:100px;
+    background-color: beige;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Impact";
+    /border: 5px dotted blue;
+}
+div.menuitem2-1{
+    width:700px;
+    height:300px;
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Impact";
+}
+div.menuitem2-2{
+    display:inline-block;
+    width:700px;
+    height:20px;
+    background-color: red;
+    font-size: 15px;
+    text-align: center;
+    font-family: "Impact";
+}
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:burlywood;
+    font-size: 30px;
+    font-family: "Impact";
+    text-align: right;
+    margin-top: 20px;
+}
